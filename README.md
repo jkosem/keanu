@@ -37,3 +37,9 @@ Sometimes it takes a designer/animator/artist a while to get the right speed or 
 There would be a history of scrubble prompts which would give the user an indestructible command history so they can make more complex animations and procedures and be able to go back a couple of steps to see where things might have gone wrong.
 
 ![](https://github.com/jkosem/keanu/blob/main/main-4-scrub.png)
+
+## Roadmap
+
+* GIFs or some animation/video showing what this would look like for real
+* Soliciting brutal feedback from developers and Processing users
+* Looking for something out there that already exists for years that already does this
