@@ -18,12 +18,22 @@ Recently (as of December 2022), great leaps and bounds have been made in the AI 
 
 I’m interested in making AI tools usable for people, and I'm interested in programming as a practice, so I thought why not design something that does both for a creative tool interface? You can observe what's going on in the black box while it does stuff for you. There is observability and trust.
 
+## What it could look like
+
+The UI is very simple. You have three boxes. The two on the left are equally functional in that the user types into them and then the display on the right shows the output.
+
 ![](https://github.com/jkosem/keanu/blob/main/main-1-create.png)
+
+The user can then just keep adding prompts to produce more and more things, which would be displayed in (close to) real-time as the 'programme' is running.
 
 ![](https://github.com/jkosem/keanu/blob/main/main-2-animate.png)
 
+Sometimes it takes a designer/animator/artist a while to get the right speed or movement right and fiddling with numbers isn't the best way of doing it. The user would then give a prompt to give a UI control which is not part of the output but sits on top of it.
+
 ![](https://github.com/jkosem/keanu/blob/main/main-3-slider.png)
 
-![](https://github.com/jkosem/keanu/blob/main/main-4-scrub.png)
-
 ![](https://github.com/jkosem/keanu/blob/main/main-4-slider.png)
+
+There would be a history of scrubble prompts which would give the user an indestructible command history so they can make more complex animations and procedures and be able to go back a couple of steps to see where things might have gone wrong.
+
+![](https://github.com/jkosem/keanu/blob/main/main-4-scrub.png)
