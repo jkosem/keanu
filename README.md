@@ -18,4 +18,12 @@ Recently (as of December 2022), great leaps and bounds have been made in the AI 
 
 I’m interested in making AI tools usable for people, and I'm interested in programming as a practice, so I thought why not design something that does both for a creative tool interface? You can observe what's going on in the black box while it does stuff for you. There is observability and trust.
 
-![main-1-create](https://github.com/jkosem/keanu/blob/main/main-1-create.png)
+![](https://github.com/jkosem/keanu/blob/main/main-1-create.png)
+
+![](https://github.com/jkosem/keanu/blob/main/main-2-animate.png)
+
+![](https://github.com/jkosem/keanu/blob/main/main-3-slider.png)
+
+![](https://github.com/jkosem/keanu/blob/main/main-4-scrub.png)
+
+![](https://github.com/jkosem/keanu/blob/main/main-4-slider.png)
