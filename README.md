@@ -43,3 +43,6 @@ There would be a history of scrubble prompts which would give the user an indest
 * GIFs or some animation/video showing what this would look like for real
 * Soliciting brutal feedback from developers and Processing users
 * Looking for something out there that already exists for years that already does this
+* Experiment with track editor
+* 3d mode designs with AI texture generation prompt
+* Awesome logo
