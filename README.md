@@ -46,3 +46,7 @@ There would be a history of scrubble prompts which would give the user an indest
 * Experiment with track editor
 * 3d mode designs with AI texture generation prompt
 * Awesome logo
+
+## Credit
+
+The design makes heavy use of [IBM's Carbon Design System](https://carbondesignsystem.com), where credit is due. It's pretty damn solid. Give it a whirl.
