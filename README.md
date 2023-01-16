@@ -36,7 +36,7 @@ Sometimes it takes a designer/animator/artist a while to get the right speed or 
 
 ![](https://github.com/jkosem/keanu/blob/main/main-4-slider.png)
 
-There would be a history of scrubble prompts which would give the user an indestructible command history so they can make more complex animations and procedures and be able to go back a couple of steps to see where things might have gone wrong.
+There would be a history of prompts the user could scrub up and down through. This would give them an indestructible command history they could work with and change as needed. They could then make more complex animations and procedures and be able to go back a couple of steps to see where things might have gone wrong. This idea gives the user a tool not commonly seen in prompt-command interfaces, which is the ability to work in work additively, bit by bit, and correctively as needed while seeing the results graphically and in code (JS).
 
 ![](https://github.com/jkosem/keanu/blob/main/main-4-scrub.png)
 
