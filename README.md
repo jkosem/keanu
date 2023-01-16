@@ -30,7 +30,7 @@ The user can then just keep adding prompts to produce more and more things, whic
 
 ![](https://github.com/jkosem/keanu/blob/main/main-2-animate.png)
 
-Sometimes it takes a designer/animator/artist a while to get the right speed or movement right and fiddling with numbers isn't the best way of doing it. The user would then give a prompt to give a UI control which is not part of the output but sits on top of it.
+Sometimes it takes a designer/animator/artist a while to get the right speed or movement right and fiddling with numbers isn't the best way of doing it. The user would then give a prompt to be given UI control to fine tune the speed. This slider is not part of the output but sits on top of it. It is also accesible in the prompt window as well, as indicated by the icon.
 
 ![](https://github.com/jkosem/keanu/blob/main/main-3-slider.png)
 
@@ -52,3 +52,5 @@ There would be a history of scrubble prompts which would give the user an indest
 ## Credit
 
 The design makes heavy use of [IBM's Carbon Design System](https://carbondesignsystem.com), where credit is due. It's pretty damn solid. Give it a whirl.
+
+Also, this design work, and hopefully way more of my design work, is open source, so note the license. I've used innumberable bits and bobs of everything from code snippets to desktop software to plugins to vector graphics all free of charge and with largely no strings attached. So have you. So let's design in the open.
