@@ -4,21 +4,21 @@
 
 ## The problem is the code
 
-I'm amazed by programming. You see, I'm a designer, but from a family of programmers. My dad in fact programmed on cards on some of the first computers there were. So massive street cred.
+I'm amazed by programming. You see, I'm a designer, but from a family of programmers. My dad in fact programmed on cards on some of the first computers there were. So massive street cred somehow.
 
-The problem, if you couldn't deduce by the first sentence's allusion, is that I just can't get my head around it. I learned HTML and CSS way back when in the 90's and still know and use them today in fits and spurts and some cut and paste Javascript. Over the past two decades plus, there has been a mind-boggling, horribly slapdash slog through everything from ActionScript (RIP), Director (RIP), Processing, MaxMSP to Ruby. All have come and gone like the tides. I just can't get my head around how it works. I'm not alone either.
+The problem is that I just can't get my head around it. I learned HTML and CSS way back when in the 90's (not really programming anyhow) and still know and use them today in fits and spurts and some cut and paste Javascript. That's about it. Over the past two plus decades, there has been a mind-boggling, horribly slapdash slog through everything from ActionScript (RIP), to Director (RIP), to Processing, to MaxMSP to Ruby. All have come and gone like the tides. I just can't get my head around how they works. I'm not alone either.
 
-[Here is an example of exactly the wrong way](https://guide.nannou.cc/tutorials/draw/animating-a-circle.html/) of having to animate by programming if you ask me.
+[Here is an example of exactly the wrong way](https://guide.nannou.cc/tutorials/draw/animating-a-circle.html/) of having to animate by programming if you ask me. This is what it's looked like every time I tried to program. You can imagine how bad it went.
 
-[Here is a super long screed on visual programming](https://divan.dev/posts/visual_programming_go/) which, if you've ever tried it, attempts at making all the difficult math-like grammar of the above example, somewhat legible. I'm still fascinated with visual programming, but not sure if it's necessarily going in the right direction.
+[Here is a super long screed on visual programming](https://divan.dev/posts/visual_programming_go/) which, if you've ever tried it, attempts at making all the difficult math-like grammar of the above example, more legible, and legibility, being able to read and understand is key. I'm still fascinated with visual programming, but it's never really caught on at any sort of scale. Also, it's still super complicated, but at least you can sort of see what is going on, this connects to that and this thing changes that.
 
-This leads me to believe the problem with "Learning How To Code" as we understand it is not who's learning it. Not how it's taught even. But how we make it.
+All of this leads me to believe the problem with "Learning How To Code" as we understand it is not who's learning it. Not how it's taught even. But how we make it.
 
 ## Where AI steps in
 
-Recently (as of December 2022), great leaps and bounds have been made in the AI field, in particular with coding. You can give something like [ChatGPT](https://openai.com/blog/chatgpt/) (OpenAI) something like "animate a ball" and it does all the example above does more or less.
+Recently (late 2022), great leaps and bounds have been made in the AI field, in particular with coding. You can give something like [ChatGPT](https://openai.com/blog/chatgpt/) (OpenAI) something like "animate a ball" and it does all the example above does more or less. And of course, way easier.
 
-I’m interested in making AI tools usable for people, and I'm interested in programming as a practice, so I thought why not design something that does both for a creative tool interface? You can observe what's going on in the black box while it does stuff for you. There is observability and trust. More importantly someone who is code-curious, but can barely string anything together can see the translation in real time. They can speak what they want, how they want, and then see it translated into something like Javascript. This also gives the novice a way to see *how* it should turn out for what they want. The novice can see the grammar constructed for them, and thus begin to learn and appreciate it, without struggling for months to create something and giving up after running into the wall too many times.
+I’m very interested in the design of tools, and now in particular AI tools, and making them usable. I'm also interested in programming as a practice. So I thought why not design something that does both for a creative tool interface? You can observe what's going on in the background while it does stuff for you. There is observability, trust and theoretically more understanding. More importantly, someone who is code-curious can see the translation of their intent in real time into workable code. They can speak what they want, how they want, and then see it translated into something like Javascript. This also gives the novice a way to see how it should turn out for what they want. They can see the grammar constructed for them while they form their thoughts through doing, and thus begin to learn and appreciate it, without struggling for months to create something and giving up after running into the wall too many times.
 
 ## What it could look like
 
