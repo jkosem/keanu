@@ -8,8 +8,6 @@ I'm amazed by programming. You see, I'm a designer, but from a family of program
 
 The problem is that I just can't get my head around it. I learned HTML and CSS way back when in the 90's (not really programming anyhow) and still know and use them today in fits and spurts and some cut and paste Javascript. That's about it. Over the past two plus decades, there has been a mind-boggling, horribly slapdash slog through everything from ActionScript (RIP), to Director (RIP), to Processing, to MaxMSP to Ruby. All have come and gone like the tides. I just can't get my head around how they works. I'm not alone either.
 
-[Here is an example of exactly the wrong way](https://guide.nannou.cc/tutorials/draw/animating-a-circle.html/) of having to animate by programming if you ask me. This is what it's looked like every time I tried to program. You can imagine how bad it went.
-
 [Here is a super long screed on visual programming](https://divan.dev/posts/visual_programming_go/) which, if you've ever tried it, attempts at making all the difficult math-like grammar of the above example, more legible, and legibility, being able to read and understand is key. I'm still fascinated with visual programming, but it's never really caught on at any sort of scale. Also, it's still super complicated, but at least you can sort of see what is going on, this connects to that and this thing changes that.
 
 All of this leads me to believe the problem with "Learning How To Code" as we understand it is not who's learning it. Not how it's taught even. But how we make it.
