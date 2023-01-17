@@ -2,7 +2,7 @@
 
 #### AKA Conversational Programming
 
-## The problem is the code
+## The problem is (probably) the code
 
 I'm amazed by programming. You see, I'm a designer, but from a family of programmers. My dad in fact programmed on cards on some of the first computers there were. So massive street cred somehow.
 

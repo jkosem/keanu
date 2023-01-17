@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<canvas id="myCanvas" width="704" height="944" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML canvas tag.</canvas>
+
+<script>
+
+/* animate a red circle from the left to right */
+var circle = document.createElement('div');
+circle.style.width = '100px';
+circle.style.height = '100px';
+circle.style.borderRadius = '50px';
+circle.style.backgroundColor = 'red';
+circle.style.position = 'absolute';
+circle.style.top = '50%';
+circle.style.left = '0px';
+document.body.appendChild(circle);
+var circleLeft = 0;
+var circleDirection = 1;
+var circleSpeed = 1;
+function moveCircle() {
+  circleLeft += circleDirection * circleSpeed;
+  circle.style.left = circleLeft + 'px';
+  if (circleLeft > window.innerWidth - 100) {
+    circleDirection = -1;
+  } else if (circleLeft < 0) {
+    circleDirection = 1;
+  }
+}
+setInterval(moveCircle, 10);
+
+</script>
+
+</body>
+</html>
+
