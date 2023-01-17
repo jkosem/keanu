@@ -40,15 +40,14 @@ There would be a history of prompts the user could scrub up and down through. Th
 
 ## Roadmap
 
-* GIFs or some animation/video showing what this would look like for real
-* Soliciting brutal feedback from developers and Processing users
-* Looking for something out there that already exists for years that already does this
-* Experiment with track editor
-* 3d mode designs with AI texture generation prompt
+* GIFs or some animation/video showing what this would look like for real...which would ideally be able to export from this [CodePen](https://codepen.io/jkosem/pen/PoagPJg)
 * Awesome logo
+* Soliciting brutal feedback from developers and Processing users
+* Continue looking for something out there that already exists for years that already does this
+* 3d mode designs with AI texture generation prompt
 
 ## Credit
 
 The design makes heavy use of [IBM's Carbon Design System](https://carbondesignsystem.com), where credit is due. It's pretty damn solid. Give it a whirl.
 
-Also, this design work, and hopefully way more of my design work, is open source, so note the license. I've used innumberable bits and bobs of everything from code snippets to desktop software to plugins to vector graphics all free of charge and with largely no strings attached. So have you. So let's design in the open.
+Also, this design work is open source, so note the license. I've used innumberable bits and bobs of everything from code snippets to desktop software to plugins to vector graphics all free of charge and with largely no strings attached. So have you. So let's design in the open.
