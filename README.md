@@ -22,9 +22,11 @@ I’m very interested in the design of tools, and now in particular AI tools, an
 
 The UI is very simple. You have three boxes. The two on the left are equally functional in that the user types into them and then the display on the right shows the output.
 
+The user starts with a prompt to create a red circle.
+
 ![](https://github.com/jkosem/keanu/blob/main/main-1-create.png)
 
-The user can then just keep adding prompts to produce more and more things, which would be displayed in (close to) real-time as the 'programme' is running.
+The user can then just keep adding prompts to produce more and more things, which would be displayed in (close to) real-time as the 'programme' is running. In this case, they are animating the red circle.
 
 ![](https://github.com/jkosem/keanu/blob/main/main-2-animate.png)
 
@@ -42,12 +44,10 @@ There would be a history of prompts the user could scrub up and down through. Th
 
 * GIFs or some animation/video showing what this would look like for real...which would ideally be able to export from this [CodePen](https://codepen.io/jkosem/pen/PoagPJg)
 * Awesome logo
-* Soliciting brutal feedback from developers and Processing users
 * Continue looking for something out there that already exists for years that already does this
 * 3d mode designs with AI texture generation prompt
+* Soliciting brutal feedback from developers and Processing users
 
 ## Credit
 
 The design makes heavy use of [IBM's Carbon Design System](https://carbondesignsystem.com), where credit is due. It's pretty damn solid. Give it a whirl.
-
-Also, this design work is open source, so note the license. I've used innumberable bits and bobs of everything from code snippets to desktop software to plugins to vector graphics all free of charge and with largely no strings attached. So have you. So let's design in the open.
