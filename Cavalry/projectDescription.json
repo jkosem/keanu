@@ -1,0 +1,10 @@
+{
+    "description": {
+        "assets": "@project/Assets",
+        "autoSave": "@project/Autosave",
+        "name": "keanu",
+        "palettes": "@project/Assets/Palettes",
+        "renders": "@project/Renders",
+        "scenes": "@project/Scenes"
+    }
+}
